@@ -1,4 +1,4 @@
-# webci
+# Deskripsi Repository 'webci'
  Ini adalah tempelate untuk projek-projek codeigniter ke depannya.
  
 Pada dasarnya repository ini tidak digunakan untuk membuat projek namun sebagai bahan baku yang bisa digunakan berulang-ulang
